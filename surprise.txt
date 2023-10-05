@@ -1,12 +1,17 @@
-Name:
-Student ID:
+Name: Pouya Sadeghpour
+Student ID: 3036599190
 
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+Cd to change directory.
+Ls to see what is inside.
+Open top open a file
+Terminal is using language called Bash
 
 2. Do you have pets? What kind?
-
+No I do not.
 3. If you run across an error, what would your first course of action be?
-
+Look back and find the error.
 4. Funniest thing that happened to you in high school.
-
+My neck got cut open on a fence.
 5. What is a python script? (Keep it simple)
+A line of code
